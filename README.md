@@ -1,4 +1,4 @@
-#Reto 7
+# Reto 7
 
 Bienvenidos, aquí podrán ver la solución que le dí a los ejercicios del reto 7,espero sea de su agrado y puedan aprender.
 
